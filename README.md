@@ -1,11 +1,11 @@
-Fluid Designer Beta Zip
+Fluid Designer Beta Files
 ===================
 
 Fluid Designer is developed as an add-on to Blender (www.blender.org) its purpose is to create an efficient, streamlined way to design interior environments, and create and maintain a library of assets.
 
 Installation
 ===================
-This is a zip folder containing all of the files required to install the beta version of Fluid Designer.
+This repo contains all of the files required to install the beta version of Fluid Designer.
 
 Fluid Designer - This folder contains the Fluid Designer application. To launch the application open the blender.exe contained in Fluid Designer/win64-vc.
 
